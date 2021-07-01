@@ -7,4 +7,4 @@
 - 👀 I’m interested in full-stack web development.
 - 🎓 I like movies and Math.
 - 🌱 I’m currently learning JS frameworks Vue.js and React.js.
-- 📫 How to reach me - Telegram - https://t.me/cyrillFtl (fastest way). Or by email - cyrill.vorfolomeev@yandex.ru .
+- 📫 How to reach me - Telegram - https://t.me/cyrillFtl (fastest way) or by email - cyrill.vorfolomeev@yandex.ru .
