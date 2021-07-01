@@ -1,0 +1,11 @@
+- 👋 Привет, меня зовут Кирилл.
+- 👀 Я интересуюсь веб-разработкой, полным ее стэком.
+- 🎓 Люблю кино, а еще Математику.
+- 🌱 Сейчас изучаю JS фреймворки Vue.js и React.js.
+- 📫 Найти меня можно в телеграмме - https://t.me/cyrillFtl (так будет быстрее всего). А еще можно написать на почту cyrill.vorfolomeev@yandex.ru .
+
+- 👋 Hi, I’m Kirill
+- 👀 I’m interested in full-stack web develoment.
+- 🎓 I like movies and Math.
+- 🌱 I’m currently learning JS frameworks Vue.js and React.js.
+- 📫 How to reach me - Telegram - https://t.me/cyrillFtl (fastest way). Or by email - cyrill.vorfolomeev@yandex.ru .
